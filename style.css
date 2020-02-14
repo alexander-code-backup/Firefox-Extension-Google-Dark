@@ -1,0 +1,158 @@
+:root {
+    --color-background: #222222;
+    --color-background-shadow: #4a4a4a;
+    --color-dark: #1F232A;
+    --color-text: #efefef;
+    --color-bar: #1a1a1a;
+    --color-textdark: #777474;
+    --color-button: #404040;
+    --color-icon: #E1E1E1;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-dark) var(--color-background-shadow);
+    color: var(--color-text) !important;
+}
+
+body, #fbar, #hdtbSum, #appbar, .minidiv .sfbg, .y8Jpof:hover, #topstuff .sh-sp__pswtr, .VmOpGe, .xkfVF, .N3Hzgf .snByac, .A3sRAb.CDELXb .snByac.snByac, .A3sRAb.u3bW4e .snByac.snByac, .bdf4dc, .uIZQNc .snByac, .jQ9OEf .snByac, .gb_F, .gb_sa.gb_Za.gb_Qe.gb_Dc, .JPdR6b, .EWuRAb.OUzXuf .ikIPKb, .FW4e0c, .o3Tnnc, .g3VIld, .J9Shxc, .gb_xc, .jz7BQc, .utPwtc, .x4mTy, .A1EzL.j6uZD, .oMFQWd, .Cfu0qd, .mVx9Fb, .CNrWwb, .mEB2hc, .KQRYIb, .qcTKEe, .T4LgNb, .SSPGKf, .hUsHhf, .ZjEvzc, .Bofz6, .U00uwb, .YisXab, .yDmH0d {
+    background-color: var(--color-background) !important;
+}
+
+.jhp input[type="submit"], #hdtb-tls:hover, .ILYVD, .gb_ub.gb_ub, .gb_yb.gb_yb, .gb_Fb.gb_Fb, .gb_Hb.gb_Hb, .gb_l .gb_lb, .XLK0Od, .g81fxb.ROuVee, .g81fxb.sxlEM, .g81fxb, .u7Uqwf.OUzXuf .g81fxb.bhe1tb .JaX6Fb, .WA7y5, .hyMrOd, .jfk-button-standard, .GHEX8:not(.sMVRZe), .GHEX8.sMVRZe.UTOmKf, .GHEX8.sMVRZe, .GHEX8.sMVRZe.sxlEM, .GHEX8:not(.sMVRZe).UTOmKf, .z80M1.FwR7Pc, .V7Ncoe, .zP3YCe, .DyEs4, .DyEs4 .xoz9O, .Usd1Ac, .OXbKqf, .manage-card ol, .manage-card ol li button.sign-out, .manage-card ol li button.manageAccounts, .kKVajd, .O02Irc, .gTgOub, .cwyvXe, .O2k8te, .KC1dQ, .staJ7e.spYkpc.G1TrEc .Y653g, .sy3Oxe:not(:disabled), .DjbnYe, .oI76Ne, .VCNZl, .NuaRqc, .EhFa0d, .XJAEhd, .zgif0c, .VuM4ve, .xPnGFc .nMBhmd, .z9WUHd, .aK8vAb, .MCZgpb, .RDsffd, .TPiuDc, .EL3yJc, .VfPpkd-xl07Ob-XxIAqe, .sbhl, .BlOseb.eSq3C g-fab, .k2Oeod.eSq3C g-fab, ._-od, .sh-ma-menu__dropdown, .F9PbJd, .p137Zd, .rtIMgb.WjVZdb, .ftP2Gf {
+    background-color: var(--color-bar) !important;
+    background-image: inherit !important;
+}
+
+.b2hzT, .gb_9d.gb_i.gb_yg.gb_pg, .vk_ard, .IxCT4b {
+    display: none !important;
+}
+.jZWadf, .PpML1d, .KxwMuc, .btQoIf, .gN5aAe, .Cv8Rjc, .mEVcIe.uGCjIb {
+    background: var(--color-background) !important;
+}
+.RNNXgb, .sbibod, .gb_Re, .LA97Be:hover, .mitem:hover, .y3gESb:hover, .ZBagRc:hover, .IExo3d:hover, .manage-card ol li button.add:hover, .manage-card ol li button.sign-out:hover, .manage-card ol li button.manageAccounts:hover, .gShwAe, .ktf, .ab_button, .sh-ma-menu__items, .jfk-textinput {
+    background-color: var(--color-background-shadow) !important;
+    border: inherit !important;
+}
+.sbibod * {
+    background-color: var(--color-background-shadow) !important;
+}
+.ab_button {
+    background-image: inherit !important;
+}
+.mslg .ab_button, .mslg .kpgrb {
+    height: 28px !important; 
+}
+.yWc32e {
+    padding-left: 20px !important;
+}
+.action-menu .mn-dwn-arw {
+    border-color: #fff transparent !important;
+}
+.gb_C .gb_D {
+    background-position: -465px -35px !important;
+}
+.EHzcec, .sbhl, g-inner-card, .CNf3nf, .sbsb_d, header.gb_sa, .LGaLwb, .JAPqpe, .qkMa5.oKubKe[aria-selected="true"], .FLmEnf, .PcxEPe .o11zad.QuQCEd {
+    background-color: var(--color-bar) !important;
+}
+.aajZCb, .Mw2I7, .ab_dropdown, .sbsb_a, .cF4V5c, .hdtb-mn-o, .hdtbItm, .e7RZX, .cEW58 {
+    background-color: var(--color-background-shadow) !important;
+}
+.sbib_a, .gsfi, .zthhpf, .h312td, .goog-flat-menu-button, .goog-menu, .gb_Te, .VOEIyf .jBmls, .Aul2T.qs41qe, .xoqcGf.DKHcHb .Aul2T, .Aul2T {
+     background: var(--color-background-shadow) !important;
+}
+#hdtb {
+    border-bottom: 1px solid var(--color-bar) !important;
+}
+.ab_dropdownitem.selected, #hdtb-msb .hdtb-tl-sel, .Co0ztb, .rcyqQd, .J2j0Cc.kTpKXc, .J2j0Cc.uH98yc {
+    background-color: inherit !important;
+}
+#hdtb-msb .hdtb-tl-sel, .l7vFn, .O1Wnce {
+    background: inherit !important;
+}
+.xXEKkb, .w8qArf .fl {
+    color: var(--color-text) !important;
+}
+#rhs .rhsvw {
+    width: inherit !important;
+}
+.sh-dr__prs, .H73aad, .sh-ma-menu__menu:focus-within ._-oj, .sh-ma-menu__selected-value:valid ~ ._-oj, .XD1Bsc, .XD1Bsc:hover, .ZXJQ7c:hover, .Ix6LGe, .fwcbM, .gb_Uf, .goog-menuitem-highlight, .goog-menuitem-hover, .iqq6Hc, .MSOQIb, .QtDoYb, .QT8Hbf, .wDSX5e {
+    background: var(--color-bar) !important;
+}
+.gb_ae.gb_4.gb_Wc {
+    font-family: 'Google Sans',arial,sans-serif;
+    letter-spacing: .25px;
+    background: #1a73e8;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    min-width: 4em;
+    outline: none;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    z-index: 0;
+    cursor: pointer !important;
+}
+.gb_ae.gb_4.gb_Wc:hover {
+    background:#287ae6;
+    box-shadow: 0 1px 1px 0 rgba(66,133,244,0.45),0 1px 3px 1px rgba(66,133,244,0.3);
+}
+.JIzqne.IMVfif > svg > path, .IT4Wo .JUQOtc, .fKz7Od {
+    fill: white !important;
+}
+.R4HkWb .orgUxc {
+    fill: #4a4a4a !important;
+}
+.SUsuTc .R4HkWb .orgUxc {
+    fill: #4285f4 !important;
+}
+.EhlvJf.KKjvXb, .Zt1cpf[aria-selected="true"], .KT6Tgd .CxtIIb[aria-selected="true"], .wDSX5e .ixImeb {
+    background: #2d3544 !important;
+}
+.rN3O0d, .zthhpf {
+    border: inherit !important;
+}
+.gb_Pb > .gb_Ob:hover, .gb_Ob:hover {
+    background-color: var(--color-background-shadow) !important;
+    background: var(--color-background-shadow) !important;
+}
+.e2CuFe {
+    border-color: white transparent !important;
+}
+.zQTmif.SSPGKf.O5K2Vd .B1tEqd figure {
+    background-color: #fff;
+    border: 2px solid #222;
+    height: 120px;
+    width: 120px;
+}
+.z7VTQb .DPvwYc {
+    color: #5f6368 !important;
+}
+.VEBPSe.d0aq2c {
+    margin-top: 10px;
+}
+.gCZlub::after, .i90SRe::before {
+    border-top-color: var(--color-bar) !important;
+}
+.exp-txt-c {
+    left: inherit !important;
+    right: inherit !important;
+    text-align: inherit !important;
+}
+.sh-dlr__list-result, .LGaLwb {
+    box-shadow: inherit !important;
+}
+._-om._-ok {
+    border-top: 5px solid #fff !important;
+}
+._-om {
+    border: 5px solid #000 !important;
+}
+.Vm8UPe .jBOzbf:nth-child(2) {
+    border-left: 2px solid #222222 !important;
+}
+.lEnAO .Vm8UPe:nth-child(2) {
+    border-top: 2px solid #222222 !important;
+}

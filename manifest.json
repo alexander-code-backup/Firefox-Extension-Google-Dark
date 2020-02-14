@@ -1,0 +1,25 @@
+{
+  "description": "Ativar modo escuro no Google",
+  "manifest_version": 2,
+  "name": "Google Dark",
+  "author": "Johnendz",
+  "version": "1.8",
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/*", "*://www.google.com.br/*", "*://accounts.google.com/*", "*://myaccount.google.com/*", "*://one.google.com/*", "*://aboutme.google.com/*", "*://families.google.com/*", "*://passwords.google.com/*", "*://adssettings.google.com/*", "*://takeout.google.com/*", "*://myactivity.google.com/*", "*://chrome.google.com/*", "*://www.google.co.in/*", "*://www.google.de/*", "*://www.google.com.hk/*", "*://www.google.co.uk/*", "*://www.google.fr/*", "*://www.google.co.jp/*", "*://photos.google.com/*"],
+      "exclude_matches": ["*://www.google.com/flights*", "*://www.google.com.br/flights*", "*://www.google.com/travel/*", "*://www.google.com.br/travel/*", "*://www.google.com/services/*", "*://fi.google.com/about/faq/", "*://chrome.google.com/webstore/*", "*://www.google.com/chromebook/shop/*"],
+      "css":["style.css"],
+      "run_at": "document_start"
+    }
+  ],
+  
+  "icons": {
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "64": "icons/64.png",
+    "96": "icons/96.png",
+    "128": "icons/128.png",
+    "256": "icons/256.png"
+  }
+}
