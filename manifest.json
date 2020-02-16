@@ -3,14 +3,15 @@
   "manifest_version": 2,
   "name": "Google Dark",
   "author": "Johnendz",
-  "version": "2.0",
+  "version": "2.1",
 
   "content_scripts": [
     {
-      "matches": ["*://www.google.com/", "*://www.google.com/search*", "*://accounts.google.com/*", "*://myaccount.google.com/*", "*://one.google.com/*", "*://aboutme.google.com/*", "*://families.google.com/*", "*://passwords.google.com/*", "*://adssettings.google.com/*", "*://takeout.google.com/*", "*://myactivity.google.com/*", "*://chrome.google.com/*", "*://photos.google.com/*", "*://www.google.com.br/", "*://www.google.com.br/search*", "*://www.google.co.in/", "*://www.google.co.in/search*", "*://www.google.de/", "*://www.google.de/search*", "*://www.google.com.hk/", "*://www.google.com.hk/search*", "*://www.google.co.uk/", "*://www.google.co.uk/search*", "*://www.google.fr/", "*://www.google.fr/search*", "*://www.google.co.jp/", "*://www.google.co.jp/search*"],
-      "exclude_matches": ["*://chrome.google.com/webstore/*"],
+      "matches": ["*://www.google.com/", "*://www.google.com/search*", "*://www.google.com/webhp*", "*://accounts.google.com/*", "*://myaccount.google.com/*", "*://one.google.com/*", "*://aboutme.google.com/*", "*://families.google.com/*", "*://passwords.google.com/*", "*://adssettings.google.com/*", "*://takeout.google.com/*", "*://myactivity.google.com/*", "*://chrome.google.com/*", "*://photos.google.com/*", "*://translate.google.com/*", "*://drive.google.com/*", "*://ogs.google.com/*", "*://pay.google.com/*", "*://payments.google.com/*", "*://contacts.google.com/*", "*://www.google.com.br/", "*://www.google.com.br/search*", "*://www.google.com.br/webhp*", "*://www.google.co.in/", "*://www.google.co.in/search*", "*://www.google.co.in/webhp*", "*://www.google.de/", "*://www.google.de/search*", "*://www.google.de/webhp*", "*://www.google.com.hk/", "*://www.google.com.hk/search*", "*://www.google.com.hk/webhp*", "*://www.google.co.uk/", "*://www.google.co.uk/search*", "*://www.google.co.uk/webhp*", "*://www.google.fr/", "*://www.google.fr/search*", "*://www.google.fr/webhp*", "*://www.google.co.jp/", "*://www.google.co.jp/search*", "*://www.google.co.jp/webhp*"],
+      "exclude_matches": ["*://chrome.google.com/webstore/*", "*://translate.google.com/translate*"],
       "css":["style.css"],
-      "run_at": "document_start"
+      "run_at": "document_start",
+      "all_frames": true
     }
   ],
   
