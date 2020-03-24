@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/232/232227.png?modified=1581824982">
+  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/234/234472.png?modified=1585090064">
 </p>
 
 ## :rocket: Tecnologias
