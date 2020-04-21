@@ -1,9 +1,9 @@
 {
-  "description": "Ativar tema escuro no Google",
+  "description": "Ativar tema escuro no Google | Enable dark theme in Google",
   "manifest_version": 2,
-  "name": "Google Dark",
+  "name": "Google Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "2.9",
+  "version": "3.0",
 
   "content_scripts": [
     {
@@ -16,11 +16,8 @@
   ],
   
   "icons": {
-    "32": "icons/32.png",
-    "48": "icons/48.png",
-    "64": "icons/64.png",
-    "96": "icons/96.png",
-    "128": "icons/128.png",
-    "256": "icons/256.png"
+      "32": "icons/32.png",
+      "64": "icons/64.png",
+      "128": "icons/128.png"
   }
 }
