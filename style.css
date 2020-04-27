@@ -4,6 +4,7 @@
     --color-dark: #1F232A;
     --color-text: #efefef;
     --color-bar: #1a1a1a;
+	--color-other: #333333;
     --color-textdark: #777474;
     --color-button: #404040;
     --color-icon: #E1E1E1;
@@ -261,4 +262,28 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, .gN5aAe, .Cv8Rjc, .mEVcIe.uGCjIb, .uGC
 }
 .zEFJzf {
     background-color: blanchedalmond;
+}
+
+.vk_bk {
+  color: #fff !important;
+}
+
+.gb_Bb.gb_Bb, .gb_Jb.gb_Jb, .gb_Kb.gb_Kb, .gb_xb.gb_xb {
+  background-color: var(--color-bar) !important;
+}
+
+.gb_Ub.gb_Xb, .gb_Sb > .gb_Rb {
+  background-color: var(--color-background) !important;
+}
+
+.gb_Ub.gb_Xb:hover, .gb_Ub.gb_Xb:active, .ZdjxGf.Uyhxfe, .XvZKZb, .mWjWrf, .R1smN, .gb_Sb > .gb_Rb:hover, .gb_l .gb_ob, .gb_pb:hover {
+  background-color: var(--color-other) !important;
+}
+
+.gb_1e {
+  background-color: var(--color-background-shadow) !important;
+}
+
+.gb_7d {
+  border-radius: 4px !important;
 }
