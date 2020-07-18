@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Google logo" src="https://i.imgur.com/8J9JhoK.png" width="250px" />
-</h1>
-
 <p align="center">
     <img alt="GitHub language count" src="https://img.shields.io/amo/users/google-tema-escuro?color=blue">
     
@@ -18,10 +14,4 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/234/234472.png?modified=1585090064">
 </p>
