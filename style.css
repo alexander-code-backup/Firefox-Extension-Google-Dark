@@ -249,6 +249,14 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, .gN5aAe, .Cv8Rjc, .mEVcIe.uGCjIb, .uGC
     margin-top: 5px;
 }
 
+#gbwa > div > .gb_Ac {
+    width: 25px !important;
+    height: 25px !important;
+    background-image: url('https://raw.githubusercontent.com/johnendz/Firefox-Extension-Google-Dark/master/images/button_products.png') !important;
+    background-size: 25px 25px !important;
+    margin-top: 6px !important;
+    background-position: initial !important;
+}
 .gb_ng.gb_i {
     padding: 0 0 0 20px !important;
 }
