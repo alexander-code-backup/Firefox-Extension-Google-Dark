@@ -45,7 +45,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
      background: var(--color-background-shadow) !important;
 }
 
-.EHzcec, .sbhl, g-inner-card, .CNf3nf, .pDZ8ze, .sbsb_d, .zuATee, header.gb_sa, .LGaLwb, .JAPqpe, .qkMa5.oKubKe[aria-selected="true"], .FLmEnf, .PcxEPe .o11zad.QuQCEd, .yUnLie .QuQCEd, .IgzOab, .IEveH, .Z0xhed, .Kd04rd:hover, .HrGXnb, .bButFf, .gt-lc.gt-lc-mobile .gt-cd-cl, .gt-lc.gt-lc-mobile .gt-cd-ncl, .NJfJb, input.qKoqyc, .w3RMhb:hover, .liveresults-sports-immersive__str-rs-cl, .cyFc6e, .liveresults-sports-immersive__empty-tile, .imso-shw, .Hr51pb.tb_h.TbbqEc, .imspo_mff__mff, .imso_gf__bg-off, .imso_gf__gf-itm, .imso_gf__bg-on, .imso_gf__pl-tl, .rBrJud, .Hm7Qac:hover, .lwlxKc:hover, .PfSDnb:hover, .J0LdHf .Is2lAe, .KNcnob, .pla-unit-img-container-link, .Rd246b, .aHPraf, .ugt2L.xQmaOb, .WjkDEe, .YmYVQb, .lxVDVb, .IvmaHf, .lWy7Jc, .MdN6ze, .wDePOc, .UUy9xb, header#gb {
+.EHzcec, .sbhl, .CNf3nf, .pDZ8ze, .sbsb_d, .zuATee, header.gb_sa, .LGaLwb, .JAPqpe, .qkMa5.oKubKe[aria-selected="true"], .FLmEnf, .PcxEPe .o11zad.QuQCEd, .yUnLie .QuQCEd, .IgzOab, .IEveH, .Z0xhed, .Kd04rd:hover, .HrGXnb, .bButFf, .gt-lc.gt-lc-mobile .gt-cd-cl, .gt-lc.gt-lc-mobile .gt-cd-ncl, .NJfJb, input.qKoqyc, .w3RMhb:hover, .liveresults-sports-immersive__str-rs-cl, .cyFc6e, .liveresults-sports-immersive__empty-tile, .imso-shw, .Hr51pb.tb_h.TbbqEc, .imspo_mff__mff, .imso_gf__bg-off, .imso_gf__gf-itm, .imso_gf__bg-on, .imso_gf__pl-tl, .rBrJud, .Hm7Qac:hover, .lwlxKc:hover, .PfSDnb:hover, .J0LdHf .Is2lAe, .KNcnob, .pla-unit-img-container-link, .Rd246b, .aHPraf, .ugt2L.xQmaOb, .WjkDEe, .YmYVQb, .lxVDVb, .IvmaHf, .lWy7Jc, .MdN6ze, .wDePOc, .UUy9xb, header#gb {
     background-color: var(--color-bar) !important;
 }
 
@@ -313,6 +313,15 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 }
 .WpKAof:hover {
   background-color: var(--color-background-shadow) !important;
+}
+.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe {
+	background-color: var(--color-bar) !important;
+}
+.pla-ikpd__modal, .cUezCb {
+	background-color: var(--color-background) !important;
+}
+g-inner-card, .vFd7Ub, .Gor6zc {/* fundo das fotos */
+	background-color: lightgray !important;
 }
 
 /* estilo de pequenos detalhes */
