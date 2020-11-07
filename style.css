@@ -304,7 +304,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .MGqjK, .SmeuHe, .I6TXqe {
 	background: var(--color-bar) !important;
 }
-.WpKAof:hover {
+.WpKAof:hover, .YbqTTb {
   background-color: var(--color-background-shadow) !important;
 }
 .Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, .gb_wb.gb_wb {
@@ -346,10 +346,10 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 }
 
 /* estilo do google drive */
-.a-qc-La {
+.a-qc-La, .a-t-j .a-gd-j, .a-t-D {
 	background-color: var(--color-background) !important;
 }
-.a-s-Ba-Ak {
+.a-s-Ba-Ak, .a-t-cb, .a-t-D {
 	border-bottom: 1px solid transparent !important;
 }
 .a-U-xc > .a-da-fc-Ug::after, .a-U-xc > .a-da-ji::before, .a-U-xc > .a-da-Ul::before {
@@ -364,7 +364,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .a-l-S-Pc-w-d.h-R-w-d-pb {
 	background: #2d3544 !important;
 }
-.h-Yo {
+.h-Yo, .a-S-dc {
 	border-top: 1px solid transparent !important;
 }
 .gb_qf::placeholder {
@@ -373,7 +373,15 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .Kk7lMc-Yb-Il-j {
     border-left: inherit !important;
 }
-
+.a-t-J-ha {
+	background-color: var(--color-background-shadow) !important;
+}
+.a-d-vc {
+	border-right: 1px solid transparent !important;
+}
+.a-s-fa-Ha-pa {
+	fill: white !important;
+}
 /* estilo do google photos */
 
 .wDSX5e {
@@ -382,7 +390,9 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .YisXab::after {
 	display: none !important;
 }
-
+.Kmoo3e .up0e5 {
+	background-color: var(--color-bar) !important;
+}
 /* estilo do google pay */
 
 .Foqxif {
@@ -391,7 +401,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 
 /* estilo do myaccount */
 
-.g81fxb.lVAMF .JaX6Fb, .IiNaue, .GheHHf {
+.g81fxb.lVAMF .JaX6Fb, .IiNaue, .GheHHf, .KL4X6e {
 	background: var(--color-bar) !important;
 }
 .WmnPA:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me), #gb a.gb_4.gb_ka.gb_ke, #gb a.gb_ke.gb_3 {
