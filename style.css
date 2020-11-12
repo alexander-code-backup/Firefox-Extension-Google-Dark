@@ -373,7 +373,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .Kk7lMc-Yb-Il-j {
     border-left: inherit !important;
 }
-.a-t-J-ha {
+.a-t-J-ha, .HIGbEd {
 	background-color: var(--color-background-shadow) !important;
 }
 .a-d-vc {
@@ -381,6 +381,10 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 }
 .a-s-fa-Ha-pa {
 	fill: white !important;
+}
+.wMElNe.AVUQbb.VLrnY, .wMElNe.w8ecmf.VLrnY {
+	background: var(--color-background-shadow) !important;
+	border-color: var(--color-background-shadow) !important;
 }
 /* estilo do google photos */
 
@@ -390,8 +394,11 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .YisXab::after {
 	display: none !important;
 }
-.Kmoo3e .up0e5 {
+.Kmoo3e .up0e5, .KfmeTb .up0e5 {
 	background-color: var(--color-bar) !important;
+}
+.QtDoYb {
+	background: var(--color-bar) !important;
 }
 /* estilo do google pay */
 
