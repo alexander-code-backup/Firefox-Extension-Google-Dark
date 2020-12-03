@@ -273,9 +273,6 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
   color: #fff !important;
 }
 
-.gb_Jb.gb_Jb, .gb_Kb.gb_Kb {
-  background-color: var(--color-bar) !important;
-}
 
 .gb_Ub.gb_Xb, .gb_Sb > .gb_Rb {
   background-color: var(--color-background) !important;
@@ -304,10 +301,10 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .MGqjK, .SmeuHe, .I6TXqe {
 	background: var(--color-bar) !important;
 }
-.WpKAof:hover, .YbqTTb {
+.WpKAof:hover, .YbqTTb, .gb_xb:hover {
   background-color: var(--color-background-shadow) !important;
 }
-.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, .gb_wb.gb_wb, g-inner-card, #center_col g-card, .YEMaTe {
+.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb {
 	background-color: var(--color-bar) !important;
 }
 .pla-ikpd__modal, .cUezCb, .s8GCU {
