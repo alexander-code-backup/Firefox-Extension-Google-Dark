@@ -298,7 +298,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 
 /* estilo de search */
 
-.MGqjK, .SmeuHe, .I6TXqe {
+.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb {
 	background: var(--color-bar) !important;
 }
 .WpKAof:hover, .YbqTTb, .gb_xb:hover {
@@ -307,7 +307,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb {
 	background-color: var(--color-bar) !important;
 }
-.pla-ikpd__modal, .cUezCb, .s8GCU {
+.pla-ikpd__modal, .cUezCb, .s8GCU, .yg51vc {
 	background-color: var(--color-background) !important;
 }
 
@@ -315,6 +315,13 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 	background-color: white !important;
 }
 
+div#hplogo a img.fJOQGe {
+	display: none;
+}
+div#hplogo a img {
+	border-radius: 10px;
+	padding-top: inherit !important;
+}
 /* estilo de pequenos detalhes */
 
 .dGrefb {
