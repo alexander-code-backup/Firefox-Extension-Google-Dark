@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Google Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "4.7",
+  "version": "4.9",
 
   "content_scripts": [
     {
