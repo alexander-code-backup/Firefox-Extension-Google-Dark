@@ -298,17 +298,20 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 
 /* estilo de search */
 
-.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb {
+.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb, .lgJJud {
 	background: var(--color-bar) !important;
 }
-.WpKAof:hover, .YbqTTb, .gb_xb:hover {
+.WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc {
   background-color: var(--color-background-shadow) !important;
 }
 .Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se {
 	background-color: var(--color-bar) !important;
 }
-.pla-ikpd__modal, .cUezCb, .s8GCU, .yg51vc {
+.pla-ikpd__modal, .cUezCb, .s8GCU, .yg51vc, .Xeztj, .etUWZd, .YSlUOe {
 	background-color: var(--color-background) !important;
+}
+.dw-sb-cont {
+  background: var(--color-background-shadow) !important;
 }
 
 .Gor6zc, .vFd7Ub {/* fundo das fotos */
