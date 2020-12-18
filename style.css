@@ -41,7 +41,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
     background-color: var(--color-background-shadow) !important;
 }
 
-.sbib_a, .gsfi, .zthhpf, .h312td, .goog-flat-menu-button, .goog-menu, .gb_Te, .jBmls, .Aul2T.qs41qe, .xoqcGf.DKHcHb .Aul2T, .Aul2T, .b3-widget-table-data-row.clickable.highlighted, .b3-widget-table-header-row.clickable.highlighted, .b3-widget-table-header-row.clickable:hover, .b3-widget-table-data-row.clickable:hover, .b3-widget-table-message-row, .eQMted, .a-c-d.h-R-d-rc, .a-l-S-Pc-w-d.h-R-w-d-W, .a-dkl3Ye .o-Yc-o-T:hover, .a-dkl3Ye .Hb-ja-Na .o-Yc-o-T:focus:hover, .ca-k-ra-B > .h-ra-B > .h-ra:hover, .g-Gh, .h-v-pc, .inviter-recipient-area, .apps-share-chips-chip-warning, .ac-active, .apps-share-chips-chip, .gt-lc-mobile .gt-baf-word-clickable:hover, .gt-lc-mobile .gt-baf-hl, .oG5Srb:hover:not(.RDPZE), .a-s-yd-J.a-s-yd-Sa > *, .gb_Pb > .gb_Ob:hover, .gb_Ob:hover, .Hr51pb .tb_l:hover, .Hr51pb .tb_l:focus, .Hr51pb .tb_l:active, .Ix6LGe, .jq2rAe, .tw-lliw:hover, .tw-lliw:focus, .fw-ch-sel .KWk7r.qUjgX, .wDSX5e .DOAbib:hover, .gb_af {
+.sbib_a, .zthhpf, .h312td, .goog-flat-menu-button, .goog-menu, .gb_Te, .jBmls, .Aul2T.qs41qe, .xoqcGf.DKHcHb .Aul2T, .Aul2T, .b3-widget-table-data-row.clickable.highlighted, .b3-widget-table-header-row.clickable.highlighted, .b3-widget-table-header-row.clickable:hover, .b3-widget-table-data-row.clickable:hover, .b3-widget-table-message-row, .eQMted, .a-c-d.h-R-d-rc, .a-l-S-Pc-w-d.h-R-w-d-W, .a-dkl3Ye .o-Yc-o-T:hover, .a-dkl3Ye .Hb-ja-Na .o-Yc-o-T:focus:hover, .ca-k-ra-B > .h-ra-B > .h-ra:hover, .g-Gh, .h-v-pc, .inviter-recipient-area, .apps-share-chips-chip-warning, .ac-active, .apps-share-chips-chip, .gt-lc-mobile .gt-baf-word-clickable:hover, .gt-lc-mobile .gt-baf-hl, .oG5Srb:hover:not(.RDPZE), .a-s-yd-J.a-s-yd-Sa > *, .gb_Pb > .gb_Ob:hover, .gb_Ob:hover, .Hr51pb .tb_l:hover, .Hr51pb .tb_l:focus, .Hr51pb .tb_l:active, .Ix6LGe, .jq2rAe, .tw-lliw:hover, .tw-lliw:focus, .fw-ch-sel .KWk7r.qUjgX, .wDSX5e .DOAbib:hover, .gb_af {
      background: var(--color-background-shadow) !important;
 }
 
@@ -290,9 +290,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 }
 .ipetfd {
 	border-top: 1px solid transparent !important;
-}
-.ipetfd {
-    height: 0px !important;
+	height: 0px !important;
     margin-top: 0px !important;
 }
 
@@ -304,7 +302,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 .WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc {
   background-color: var(--color-background-shadow) !important;
 }
-.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se {
+.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks {
 	background-color: var(--color-bar) !important;
 }
 .pla-ikpd__modal, .cUezCb, .s8GCU, .yg51vc, .Xeztj, .etUWZd, .YSlUOe {
@@ -324,6 +322,13 @@ div#hplogo a img.fJOQGe {
 div#hplogo a img {
 	border-radius: 10px;
 	padding-top: inherit !important;
+}
+._-lh {
+    border-top: inherit !important;
+}
+.minidiv .gsfi {
+    height: 10px !important;
+    margin-top: -5px !important;
 }
 /* estilo de pequenos detalhes */
 
