@@ -330,6 +330,9 @@ div#hplogo a img {
     height: 10px !important;
     margin-top: -5px !important;
 }
+.gb_3e.gb_Fg.gb_i + div, .gb_3e.gb_Fg.gb_i + div > div {
+	background: var(--color-bar) !important;
+}
 /* estilo de pequenos detalhes */
 
 .dGrefb {

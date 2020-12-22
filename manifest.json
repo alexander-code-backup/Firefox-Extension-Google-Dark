@@ -1,9 +1,9 @@
 {
-  "description": "Ativar tema escuro no Google | Enable dark theme in Google",
+  "description": "Tenha uma nova experiência no Google | Have a new experience on Google",
   "manifest_version": 2,
   "name": "Google Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "5.2",
+  "version": "5.3",
 
   "content_scripts": [
     {
