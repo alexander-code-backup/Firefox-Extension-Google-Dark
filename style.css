@@ -37,7 +37,7 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
     background: var(--color-background) !important;
 }
 
-.aajZCb, .Mw2I7, .ab_dropdown, .sbsb_a, .cF4V5c, .hdtb-mn-o, .hdtbItm, .e7RZX, .cEW58, .source-wrap, .orig, .results-container.empty, .results-container, .result, .tX9u1b:hover, .eYehed:hover, .eYehed:focus, .jqJLq:hover, .UXNHp.jqJLq, .gt-related-suggest-message, .U2XFse, .sbibod *, .action-menu-item:hover, .RNNXgb, .sbibod, .LA97Be:hover, .mitem:hover, .y3gESb:hover, .ZBagRc:hover, .IExo3d:hover, .manage-card ol li button.add:hover, .manage-card ol li button.sign-out:hover, .manage-card ol li button.manageAccounts:hover, .gShwAe, .ktf, .ab_button, .sh-ma-menu__items, .jfk-textinput, .z80M1.FwR7Pc, .nLulBb .oKubKe[aria-selected="true"], .gt-spell-correct-message, .source-input .transliteration-container, .Vwmzxb, .czHJJ, .uMdZh:hover, .l2IUpb:not(.ZlNjjb):hover, .imso-hov:hover, .imso-hov:focus, .liveresults-sports-immersive__st-ic, .Z8r5Gb, .WB85M.KKjvXb {
+.aajZCb, .Mw2I7, .ab_dropdown, .sbsb_a, .cF4V5c, .hdtb-mn-o, .hdtbItm, .e7RZX, .cEW58, .source-wrap, .orig, .results-container.empty, .results-container, .result, .tX9u1b:hover, .eYehed:hover, .eYehed:focus, .jqJLq:hover, .UXNHp.jqJLq, .gt-related-suggest-message, .U2XFse, .sbibod *, .action-menu-item:hover, .RNNXgb, .sbibod, .LA97Be:hover, .mitem:hover, .y3gESb:hover, .ZBagRc:hover, .IExo3d:hover, .manage-card ol li button.add:hover, .manage-card ol li button.sign-out:hover, .manage-card ol li button.manageAccounts:hover, .gShwAe, .ktf, .ab_button, .sh-ma-menu__items, .jfk-textinput, .z80M1.FwR7Pc, .nLulBb .oKubKe[aria-selected="true"], .gt-spell-correct-message, .source-input .transliteration-container, .Vwmzxb, .czHJJ, .uMdZh:hover, .l2IUpb:not(.ZlNjjb):hover, .imso-hov:hover, .imso-hov:focus, .liveresults-sports-immersive__st-ic, .WB85M.KKjvXb {
     background-color: var(--color-background-shadow) !important;
 }
 
@@ -300,16 +300,19 @@ body, .jZWadf, .PpML1d, .KxwMuc, .btQoIf, #topstuff .sh-sp__pswtr, .gN5aAe, .Lj9
 	background: var(--color-bar) !important;
 }
 .WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc {
-  background-color: var(--color-background-shadow) !important;
+	background-color: var(--color-background-shadow) !important;
 }
-.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks {
+.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks, .FAl3Ic {
 	background-color: var(--color-bar) !important;
 }
 .pla-ikpd__modal, .cUezCb, .s8GCU, .yg51vc, .Xeztj, .etUWZd, .YSlUOe {
 	background-color: var(--color-background) !important;
 }
+.Z8r5Gb {
+	background: var(--color-background) !important;
+}
 .dw-sb-cont {
-  background: var(--color-background-shadow) !important;
+	background: var(--color-background-shadow) !important;
 }
 
 .Gor6zc, .vFd7Ub {/* fundo das fotos */
